@@ -18,11 +18,19 @@
 }
 
 body {
-  background-color: #5cad55;
+  background-color: #101115;
 }
 
 .gif-banner {
   width: 50px;
   height: 50px;
   object-fit: cover;
+}
+
+.border {
+  border: solid 5px !important;
+}
+
+.border-green-rm {
+  border: solid 5px #5cad55 !important;
 }
